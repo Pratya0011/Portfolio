@@ -136,22 +136,26 @@ body {
 }
 .main-div {
   display: flex;
-  justify-content: center;
+  margin: 1rem 0 0 10rem;
 }
 .main-div2 {
   display: flex;
+  margin-bottom: 5rem;
 }
 .groups {
-  margin: 5rem 0 0 8rem;
+  margin: 5rem 0 0 0;
+}
+.groups1 {
+  margin: 5rem 0 0 5rem;
 }
 .groups2 {
-  margin: 3rem 0 0 15rem;
+  margin: 3rem 0 0 10rem;
 }
 .skills-div h2 {
-  margin: 2rem 0 0 15rem;
+  margin: 2rem 0 0 10rem;
 }
 .skills-div h3 {
-  margin: 1rem 0 0 15rem;
+  margin: 1rem 0 0 10rem;
   color: rgba(255, 255, 255, 0.655);
 }
 .items {
@@ -292,17 +296,17 @@ body {
   color: white;
 }
 #h2 {
-  margin: 2rem 0 0 25rem;
+  margin: 2rem 0 0 20rem;
 }
 #h3 {
-  margin: 1rem 0 0 25rem;
+  margin: 1rem 0 0 20rem;
   color: rgba(255, 255, 255, 0.655);
 }
 
 .extra {
   display: flex;
-  justify-content: center;
-  margin: 5rem 0 0 0;
+  margin: 5rem 0 0 20rem;
+ 
 }
 .extra-div {
   margin: 0 10rem 0 0;

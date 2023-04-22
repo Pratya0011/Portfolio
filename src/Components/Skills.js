@@ -44,7 +44,7 @@ function Skills() {
             </div>
           </div>
         </div>
-        <div className="groups">
+        <div className="groups1">
           <div className="items">
             <span>REACT JS</span>
             <div className="container">
