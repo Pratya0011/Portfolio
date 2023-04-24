@@ -3,30 +3,35 @@
     "img": "https://res.cloudinary.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/ylbmozwm8prjgjqyhlvy",
     "title": "Pizza Mania",
     "about": "Pizza Ordring websit using React JS",
-    "href": "https://pizzamania-md28.onrender.com/"
+    "href": "https://pizzamania-md28.onrender.com/",
+    "type": "React"
   },
   {
     "img": "https://acowebs.com/wp-content/uploads/2019/02/Impact-of-eCommerce-On-Society.png",
     "title": "Arenamart Ecommerce",
     "about": "A complete ecommerce website using Vanilla Js",
-    "href": "https://pratya0011.github.io/ArenaMart-Ecommerce/"
+    "href": "https://pratya0011.github.io/ArenaMart-Ecommerce/",
+    "type": "Vanilla"
   },
   {
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqetyevp9-zExXlFArKhi6RNXjae5Wlnbewg&usqp=CAU",
     "title": "Expense Tracker",
     "about": "Track your expenses using expense tarcker",
-    "href": "https://pratya0011.github.io/lab-js-prograd-expense-tracker/"
+    "href": "https://pratya0011.github.io/lab-js-prograd-expense-tracker/",
+    "type": "Vanilla"
   },
   {
     "img": "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/d8/0c/18/d80c1898-defc-ac34-b31f-55b4e7730441/AppIcon-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
     "title": "Movie Search",
     "about": "Movie searching webite using Vanilla Js",
-    "href": "https://pratya0011.github.io/mini-project-builder-movie-mania/"
+    "href": "https://pratya0011.github.io/mini-project-builder-movie-mania/",
+    "type": "Vanilla"
   },
   {
     "img": "https://img.freepik.com/free-photo/soccer-players-action-professional-stadium_654080-1820.jpg?w=2000",
     "title": "Penalty Shootout",
     "about": "Penalty Shootout Game using Vanilla Js",
-    "href": "https://pratya0011.github.io/Game/"
+    "href": "https://pratya0011.github.io/Game/",
+    "type": "Vanilla"
   }
 ]

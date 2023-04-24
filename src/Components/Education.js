@@ -41,7 +41,7 @@ function Education() {
         <div className="content">
           <div>2022</div>
           <p>Udemy</p>
-          <p>Mater React JS With 10 Hands-On Projects</p>
+          <p>Master React JS With 10 Hands-On Projects</p>
         </div>
         <div className="content">
           <div>2018</div>

@@ -20,7 +20,7 @@ function Home() {
       </div>
       <div className="div-two">
         <img src={pratya} alt="Photo" />
-        <div>Electrical Engineer & Developer</div>
+        <div>Developer</div>
         <div>
           <span>Kolkata,</span>
           <span>West Bengal</span>
