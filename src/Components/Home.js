@@ -11,10 +11,7 @@ function Home() {
           <h1>Hello !</h1>
           <div>I'm a Developer</div>
           <p>
-            My objective is to secure a challenging position in a reputable
-            organization to expand my learnings,
-            <br /> knowledge and skills while making a significant contribution
-            to the success of the organization.
+          Passionate Full Stack Developer | Electrical Engineering Graduate | Dedicated to Building Innovative Web Applications
           </p>
         </div>
       </div>
