@@ -11,7 +11,9 @@ function Home() {
           <h1>Hello !</h1>
           <div>I'm a Developer</div>
           <p>
-          Passionate Full Stack Developer | Electrical Engineering Graduate | Dedicated to Building Innovative Web Applications
+          Passionate Full Stack Developer | Electrical Engineering Graduate |
+          <br/>
+           Dedicated to Building Innovative Web Applications
           </p>
         </div>
       </div>
