@@ -8,17 +8,18 @@ function Home() {
     <div className="home-component">
       <div className="div-one">
         <div className="div-three">
-          <h1>Hello !</h1>
+          <h1>Welcome</h1>
           <div>I'm a Developer</div>
           <p>
-          Passionate Full Stack Developer | Electrical Engineering Graduate |
-          <br/>
-           Dedicated to Building Innovative Web Applications
+            Passionate Full Stack Developer | Electrical Engineering Graduate |
+            <br />
+            Dedicated to Building Innovative Web Applications
           </p>
         </div>
       </div>
       <div className="div-two">
         <img src={pratya} alt="Photo" />
+        <div>Pratya Kumar Tagore</div>
         <div>Developer</div>
         <div>
           <span>Kolkata,</span>
