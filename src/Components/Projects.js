@@ -1,6 +1,7 @@
 import React from "react";
 import projects from "../projects.json";
 import Untitled from "./Untitled.png";
+import flixxit from "./flixxit.png"
 
 function Projects() {
   const react = projects.filter(data=>data.type==='React')
@@ -16,7 +17,7 @@ function Projects() {
           <div className="project2" key={index}>
           <a href={projects.href} target="_blank">
             <div>
-              <img src={projects.img} height="140px" width="200px" />
+              <img src={flixxit} height="140px" width="200px" />
               <div className="title">{projects.title}</div>
             </div>
             <div className="project-about">
